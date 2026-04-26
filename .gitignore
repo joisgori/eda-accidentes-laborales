@@ -1,0 +1,10 @@
+# Ignorar entornos virtuales
+.venv/
+venv/
+__pycache__/
+
+# Ignorar datos pesados
+*.csv
+*.parquet
+
+Readme-general.md
