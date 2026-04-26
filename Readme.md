@@ -6,4 +6,6 @@ permitan tener una visualización rápida de los datos que puedo encontrar en la
 datos antes de realizar un análisis profundo y más serio con Machine Learning y antes de llevar la visualización a una herramienta como Tableu o PowerBi.
 
 La fuente de datos utilizada se encuentra en:
-https://datos.gob.es/es/catalogo/ea0010587-tasa-de-empleo-de-las-personas-entre-20-y-64-anos-por-sexo-y-comunidad-autonoma-epa-identificador-api-67555
+https://datos.gob.es/es/catalogo/a06004074-accidentes-de-trabajo-y-enfermedades-profesionales
+
+Los datos utilizados cubren del 2009 al 2025.

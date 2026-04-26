@@ -1,0 +1,828 @@
+Total con baja - Total - Total - Total - Accidentes
+Total con baja - Total - Total - A Agricultura, ganaderÃ­a, silvicultura y pesca - Accidentes
+Total con baja - Total - Total - B Industrias extractivas - Accidentes
+Total con baja - Total - Total - C Industria manufacturera - Accidentes
+Total con baja - Total - Total - D Suministro de energÃ­a elÃ©ctrica, gas, vapor y aire acondicionado - Accidentes
+Total con baja - Total - Total - E Suministro de agua, actividades de saneamiento, gestiÃ³n de residuos y descontaminaciÃ³n - Accidentes
+Total con baja - Total - Total - F ConstrucciÃ³n - Accidentes
+Total con baja - Total - Total - G Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos de motor y motocicletas - Accidentes
+Total con baja - Total - Total - H Transporte y almacenamiento - Accidentes
+Total con baja - Total - Total - I HostelerÃ­a - Accidentes
+Total con baja - Total - Total - J InformaciÃ³n y comunicaciones - Accidentes
+Total con baja - Total - Total - K Activifdades financieras y de seguros - Accidentes
+Total con baja - Total - Total - L Actividades inmobiliarias - Accidentes
+Total con baja - Total - Total - M Actividades profesionales, cientÃ­ficas y tÃ©cnicas - Accidentes
+Total con baja - Total - Total - N Actividades administrativas y servicios auxiliares  - Accidentes
+Total con baja - Total - Total - No consta - Accidentes
+Total con baja - Total - Total - O AdministraciÃ³n pÃºblica y defensa; seguridad social obligatoria - Accidentes
+Total con baja - Total - Total - P EducaciÃ³n - Accidentes
+Total con baja - Total - Total - Q Actividades sanitarias y de servicios sociales - Accidentes
+Total con baja - Total - Total - R Actividades artÃ­sticas, recreativas y de entretenimiento - Accidentes
+Total con baja - Total - Total - S Otros servicios - Accidentes
+Total con baja - Total - Total - T Actividades de los hogares como empleadores de personal domÃ©stico; actividades de los hogares como productores de bienes y servicios para uso propio - Accidentes
+Total con baja - Total - Total - U Organismos extraterritoriales - Accidentes
+Total con baja - Total - Hombres - Total - Accidentes
+Total con baja - Total - Hombres - A Agricultura, ganaderÃ­a, silvicultura y pesca - Accidentes
+Total con baja - Total - Hombres - B Industrias extractivas - Accidentes
+Total con baja - Total - Hombres - C Industria manufacturera - Accidentes
+Total con baja - Total - Hombres - D Suministro de energÃ­a elÃ©ctrica, gas, vapor y aire acondicionado - Accidentes
+Total con baja - Total - Hombres - E Suministro de agua, actividades de saneamiento, gestiÃ³n de residuos y descontaminaciÃ³n - Accidentes
+Total con baja - Total - Hombres - F ConstrucciÃ³n - Accidentes
+Total con baja - Total - Hombres - G Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos de motor y motocicletas - Accidentes
+Total con baja - Total - Hombres - H Transporte y almacenamiento - Accidentes
+Total con baja - Total - Hombres - I HostelerÃ­a - Accidentes
+Total con baja - Total - Hombres - J InformaciÃ³n y comunicaciones - Accidentes
+Total con baja - Total - Hombres - K Activifdades financieras y de seguros - Accidentes
+Total con baja - Total - Hombres - L Actividades inmobiliarias - Accidentes
+Total con baja - Total - Hombres - M Actividades profesionales, cientÃ­ficas y tÃ©cnicas - Accidentes
+Total con baja - Total - Hombres - N Actividades administrativas y servicios auxiliares  - Accidentes
+Total con baja - Total - Hombres - No consta - Accidentes
+Total con baja - Total - Hombres - O AdministraciÃ³n pÃºblica y defensa; seguridad social obligatoria - Accidentes
+Total con baja - Total - Hombres - P EducaciÃ³n - Accidentes
+Total con baja - Total - Hombres - Q Actividades sanitarias y de servicios sociales - Accidentes
+Total con baja - Total - Hombres - R Actividades artÃ­sticas, recreativas y de entretenimiento - Accidentes
+Total con baja - Total - Hombres - S Otros servicios - Accidentes
+Total con baja - Total - Hombres - T Actividades de los hogares como empleadores de personal domÃ©stico; actividades de los hogares como productores de bienes y servicios para uso propio - Accidentes
+Total con baja - Total - Hombres - U Organismos extraterritoriales - Accidentes
+Total con baja - Total - Mujeres - Total - Accidentes
+Total con baja - Total - Mujeres - A Agricultura, ganaderÃ­a, silvicultura y pesca - Accidentes
+Total con baja - Total - Mujeres - B Industrias extractivas - Accidentes
+Total con baja - Total - Mujeres - C Industria manufacturera - Accidentes
+Total con baja - Total - Mujeres - D Suministro de energÃ­a elÃ©ctrica, gas, vapor y aire acondicionado - Accidentes
+Total con baja - Total - Mujeres - E Suministro de agua, actividades de saneamiento, gestiÃ³n de residuos y descontaminaciÃ³n - Accidentes
+Total con baja - Total - Mujeres - F ConstrucciÃ³n - Accidentes
+Total con baja - Total - Mujeres - G Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos de motor y motocicletas - Accidentes
+Total con baja - Total - Mujeres - H Transporte y almacenamiento - Accidentes
+Total con baja - Total - Mujeres - I HostelerÃ­a - Accidentes
+Total con baja - Total - Mujeres - J InformaciÃ³n y comunicaciones - Accidentes
+Total con baja - Total - Mujeres - K Activifdades financieras y de seguros - Accidentes
+Total con baja - Total - Mujeres - L Actividades inmobiliarias - Accidentes
+Total con baja - Total - Mujeres - M Actividades profesionales, cientÃ­ficas y tÃ©cnicas - Accidentes
+Total con baja - Total - Mujeres - N Actividades administrativas y servicios auxiliares  - Accidentes
+Total con baja - Total - Mujeres - No consta - Accidentes
+Total con baja - Total - Mujeres - O AdministraciÃ³n pÃºblica y defensa; seguridad social obligatoria - Accidentes
+Total con baja - Total - Mujeres - P EducaciÃ³n - Accidentes
+Total con baja - Total - Mujeres - Q Actividades sanitarias y de servicios sociales - Accidentes
+Total con baja - Total - Mujeres - R Actividades artÃ­sticas, recreativas y de entretenimiento - Accidentes
+Total con baja - Total - Mujeres - S Otros servicios - Accidentes
+Total con baja - Total - Mujeres - T Actividades de los hogares como empleadores de personal domÃ©stico; actividades de los hogares como productores de bienes y servicios para uso propio - Accidentes
+Total con baja - Total - Mujeres - U Organismos extraterritoriales - Accidentes
+Total con baja - Leve - Total - Total - Accidentes
+Total con baja - Leve - Total - A Agricultura, ganaderÃ­a, silvicultura y pesca - Accidentes
+Total con baja - Leve - Total - B Industrias extractivas - Accidentes
+Total con baja - Leve - Total - C Industria manufacturera - Accidentes
+Total con baja - Leve - Total - D Suministro de energÃ­a elÃ©ctrica, gas, vapor y aire acondicionado - Accidentes
+Total con baja - Leve - Total - E Suministro de agua, actividades de saneamiento, gestiÃ³n de residuos y descontaminaciÃ³n - Accidentes
+Total con baja - Leve - Total - F ConstrucciÃ³n - Accidentes
+Total con baja - Leve - Total - G Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos de motor y motocicletas - Accidentes
+Total con baja - Leve - Total - H Transporte y almacenamiento - Accidentes
+Total con baja - Leve - Total - I HostelerÃ­a - Accidentes
+Total con baja - Leve - Total - J InformaciÃ³n y comunicaciones - Accidentes
+Total con baja - Leve - Total - K Activifdades financieras y de seguros - Accidentes
+Total con baja - Leve - Total - L Actividades inmobiliarias - Accidentes
+Total con baja - Leve - Total - M Actividades profesionales, cientÃ­ficas y tÃ©cnicas - Accidentes
+Total con baja - Leve - Total - N Actividades administrativas y servicios auxiliares  - Accidentes
+Total con baja - Leve - Total - No consta - Accidentes
+Total con baja - Leve - Total - O AdministraciÃ³n pÃºblica y defensa; seguridad social obligatoria - Accidentes
+Total con baja - Leve - Total - P EducaciÃ³n - Accidentes
+Total con baja - Leve - Total - Q Actividades sanitarias y de servicios sociales - Accidentes
+Total con baja - Leve - Total - R Actividades artÃ­sticas, recreativas y de entretenimiento - Accidentes
+Total con baja - Leve - Total - S Otros servicios - Accidentes
+Total con baja - Leve - Total - T Actividades de los hogares como empleadores de personal domÃ©stico; actividades de los hogares como productores de bienes y servicios para uso propio - Accidentes
+Total con baja - Leve - Total - U Organismos extraterritoriales - Accidentes
+Total con baja - Leve - Hombres - Total - Accidentes
+Total con baja - Leve - Hombres - A Agricultura, ganaderÃ­a, silvicultura y pesca - Accidentes
+Total con baja - Leve - Hombres - B Industrias extractivas - Accidentes
+Total con baja - Leve - Hombres - C Industria manufacturera - Accidentes
+Total con baja - Leve - Hombres - D Suministro de energÃ­a elÃ©ctrica, gas, vapor y aire acondicionado - Accidentes
+Total con baja - Leve - Hombres - E Suministro de agua, actividades de saneamiento, gestiÃ³n de residuos y descontaminaciÃ³n - Accidentes
+Total con baja - Leve - Hombres - F ConstrucciÃ³n - Accidentes
+Total con baja - Leve - Hombres - G Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos de motor y motocicletas - Accidentes
+Total con baja - Leve - Hombres - H Transporte y almacenamiento - Accidentes
+Total con baja - Leve - Hombres - I HostelerÃ­a - Accidentes
+Total con baja - Leve - Hombres - J InformaciÃ³n y comunicaciones - Accidentes
+Total con baja - Leve - Hombres - K Activifdades financieras y de seguros - Accidentes
+Total con baja - Leve - Hombres - L Actividades inmobiliarias - Accidentes
+Total con baja - Leve - Hombres - M Actividades profesionales, cientÃ­ficas y tÃ©cnicas - Accidentes
+Total con baja - Leve - Hombres - N Actividades administrativas y servicios auxiliares  - Accidentes
+Total con baja - Leve - Hombres - No consta - Accidentes
+Total con baja - Leve - Hombres - O AdministraciÃ³n pÃºblica y defensa; seguridad social obligatoria - Accidentes
+Total con baja - Leve - Hombres - P EducaciÃ³n - Accidentes
+Total con baja - Leve - Hombres - Q Actividades sanitarias y de servicios sociales - Accidentes
+Total con baja - Leve - Hombres - R Actividades artÃ­sticas, recreativas y de entretenimiento - Accidentes
+Total con baja - Leve - Hombres - S Otros servicios - Accidentes
+Total con baja - Leve - Hombres - T Actividades de los hogares como empleadores de personal domÃ©stico; actividades de los hogares como productores de bienes y servicios para uso propio - Accidentes
+Total con baja - Leve - Hombres - U Organismos extraterritoriales - Accidentes
+Total con baja - Leve - Mujeres - Total - Accidentes
+Total con baja - Leve - Mujeres - A Agricultura, ganaderÃ­a, silvicultura y pesca - Accidentes
+Total con baja - Leve - Mujeres - B Industrias extractivas - Accidentes
+Total con baja - Leve - Mujeres - C Industria manufacturera - Accidentes
+Total con baja - Leve - Mujeres - D Suministro de energÃ­a elÃ©ctrica, gas, vapor y aire acondicionado - Accidentes
+Total con baja - Leve - Mujeres - E Suministro de agua, actividades de saneamiento, gestiÃ³n de residuos y descontaminaciÃ³n - Accidentes
+Total con baja - Leve - Mujeres - F ConstrucciÃ³n - Accidentes
+Total con baja - Leve - Mujeres - G Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos de motor y motocicletas - Accidentes
+Total con baja - Leve - Mujeres - H Transporte y almacenamiento - Accidentes
+Total con baja - Leve - Mujeres - I HostelerÃ­a - Accidentes
+Total con baja - Leve - Mujeres - J InformaciÃ³n y comunicaciones - Accidentes
+Total con baja - Leve - Mujeres - K Activifdades financieras y de seguros - Accidentes
+Total con baja - Leve - Mujeres - L Actividades inmobiliarias - Accidentes
+Total con baja - Leve - Mujeres - M Actividades profesionales, cientÃ­ficas y tÃ©cnicas - Accidentes
+Total con baja - Leve - Mujeres - N Actividades administrativas y servicios auxiliares  - Accidentes
+Total con baja - Leve - Mujeres - No consta - Accidentes
+Total con baja - Leve - Mujeres - O AdministraciÃ³n pÃºblica y defensa; seguridad social obligatoria - Accidentes
+Total con baja - Leve - Mujeres - P EducaciÃ³n - Accidentes
+Total con baja - Leve - Mujeres - Q Actividades sanitarias y de servicios sociales - Accidentes
+Total con baja - Leve - Mujeres - R Actividades artÃ­sticas, recreativas y de entretenimiento - Accidentes
+Total con baja - Leve - Mujeres - S Otros servicios - Accidentes
+Total con baja - Leve - Mujeres - T Actividades de los hogares como empleadores de personal domÃ©stico; actividades de los hogares como productores de bienes y servicios para uso propio - Accidentes
+Total con baja - Leve - Mujeres - U Organismos extraterritoriales - Accidentes
+Total con baja - Grave - Total - Total - Accidentes
+Total con baja - Grave - Total - A Agricultura, ganaderÃ­a, silvicultura y pesca - Accidentes
+Total con baja - Grave - Total - B Industrias extractivas - Accidentes
+Total con baja - Grave - Total - C Industria manufacturera - Accidentes
+Total con baja - Grave - Total - D Suministro de energÃ­a elÃ©ctrica, gas, vapor y aire acondicionado - Accidentes
+Total con baja - Grave - Total - E Suministro de agua, actividades de saneamiento, gestiÃ³n de residuos y descontaminaciÃ³n - Accidentes
+Total con baja - Grave - Total - F ConstrucciÃ³n - Accidentes
+Total con baja - Grave - Total - G Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos de motor y motocicletas - Accidentes
+Total con baja - Grave - Total - H Transporte y almacenamiento - Accidentes
+Total con baja - Grave - Total - I HostelerÃ­a - Accidentes
+Total con baja - Grave - Total - J InformaciÃ³n y comunicaciones - Accidentes
+Total con baja - Grave - Total - K Activifdades financieras y de seguros - Accidentes
+Total con baja - Grave - Total - L Actividades inmobiliarias - Accidentes
+Total con baja - Grave - Total - M Actividades profesionales, cientÃ­ficas y tÃ©cnicas - Accidentes
+Total con baja - Grave - Total - N Actividades administrativas y servicios auxiliares  - Accidentes
+Total con baja - Grave - Total - No consta - Accidentes
+Total con baja - Grave - Total - O AdministraciÃ³n pÃºblica y defensa; seguridad social obligatoria - Accidentes
+Total con baja - Grave - Total - P EducaciÃ³n - Accidentes
+Total con baja - Grave - Total - Q Actividades sanitarias y de servicios sociales - Accidentes
+Total con baja - Grave - Total - R Actividades artÃ­sticas, recreativas y de entretenimiento - Accidentes
+Total con baja - Grave - Total - S Otros servicios - Accidentes
+Total con baja - Grave - Total - T Actividades de los hogares como empleadores de personal domÃ©stico; actividades de los hogares como productores de bienes y servicios para uso propio - Accidentes
+Total con baja - Grave - Total - U Organismos extraterritoriales - Accidentes
+Total con baja - Grave - Hombres - Total - Accidentes
+Total con baja - Grave - Hombres - A Agricultura, ganaderÃ­a, silvicultura y pesca - Accidentes
+Total con baja - Grave - Hombres - B Industrias extractivas - Accidentes
+Total con baja - Grave - Hombres - C Industria manufacturera - Accidentes
+Total con baja - Grave - Hombres - D Suministro de energÃ­a elÃ©ctrica, gas, vapor y aire acondicionado - Accidentes
+Total con baja - Grave - Hombres - E Suministro de agua, actividades de saneamiento, gestiÃ³n de residuos y descontaminaciÃ³n - Accidentes
+Total con baja - Grave - Hombres - F ConstrucciÃ³n - Accidentes
+Total con baja - Grave - Hombres - G Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos de motor y motocicletas - Accidentes
+Total con baja - Grave - Hombres - H Transporte y almacenamiento - Accidentes
+Total con baja - Grave - Hombres - I HostelerÃ­a - Accidentes
+Total con baja - Grave - Hombres - J InformaciÃ³n y comunicaciones - Accidentes
+Total con baja - Grave - Hombres - K Activifdades financieras y de seguros - Accidentes
+Total con baja - Grave - Hombres - L Actividades inmobiliarias - Accidentes
+Total con baja - Grave - Hombres - M Actividades profesionales, cientÃ­ficas y tÃ©cnicas - Accidentes
+Total con baja - Grave - Hombres - N Actividades administrativas y servicios auxiliares  - Accidentes
+Total con baja - Grave - Hombres - No consta - Accidentes
+Total con baja - Grave - Hombres - O AdministraciÃ³n pÃºblica y defensa; seguridad social obligatoria - Accidentes
+Total con baja - Grave - Hombres - P EducaciÃ³n - Accidentes
+Total con baja - Grave - Hombres - Q Actividades sanitarias y de servicios sociales - Accidentes
+Total con baja - Grave - Hombres - R Actividades artÃ­sticas, recreativas y de entretenimiento - Accidentes
+Total con baja - Grave - Hombres - S Otros servicios - Accidentes
+Total con baja - Grave - Hombres - T Actividades de los hogares como empleadores de personal domÃ©stico; actividades de los hogares como productores de bienes y servicios para uso propio - Accidentes
+Total con baja - Grave - Hombres - U Organismos extraterritoriales - Accidentes
+Total con baja - Grave - Mujeres - Total - Accidentes
+Total con baja - Grave - Mujeres - A Agricultura, ganaderÃ­a, silvicultura y pesca - Accidentes
+Total con baja - Grave - Mujeres - B Industrias extractivas - Accidentes
+Total con baja - Grave - Mujeres - C Industria manufacturera - Accidentes
+Total con baja - Grave - Mujeres - D Suministro de energÃ­a elÃ©ctrica, gas, vapor y aire acondicionado - Accidentes
+Total con baja - Grave - Mujeres - E Suministro de agua, actividades de saneamiento, gestiÃ³n de residuos y descontaminaciÃ³n - Accidentes
+Total con baja - Grave - Mujeres - F ConstrucciÃ³n - Accidentes
+Total con baja - Grave - Mujeres - G Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos de motor y motocicletas - Accidentes
+Total con baja - Grave - Mujeres - H Transporte y almacenamiento - Accidentes
+Total con baja - Grave - Mujeres - I HostelerÃ­a - Accidentes
+Total con baja - Grave - Mujeres - J InformaciÃ³n y comunicaciones - Accidentes
+Total con baja - Grave - Mujeres - K Activifdades financieras y de seguros - Accidentes
+Total con baja - Grave - Mujeres - L Actividades inmobiliarias - Accidentes
+Total con baja - Grave - Mujeres - M Actividades profesionales, cientÃ­ficas y tÃ©cnicas - Accidentes
+Total con baja - Grave - Mujeres - N Actividades administrativas y servicios auxiliares  - Accidentes
+Total con baja - Grave - Mujeres - No consta - Accidentes
+Total con baja - Grave - Mujeres - O AdministraciÃ³n pÃºblica y defensa; seguridad social obligatoria - Accidentes
+Total con baja - Grave - Mujeres - P EducaciÃ³n - Accidentes
+Total con baja - Grave - Mujeres - Q Actividades sanitarias y de servicios sociales - Accidentes
+Total con baja - Grave - Mujeres - R Actividades artÃ­sticas, recreativas y de entretenimiento - Accidentes
+Total con baja - Grave - Mujeres - S Otros servicios - Accidentes
+Total con baja - Grave - Mujeres - T Actividades de los hogares como empleadores de personal domÃ©stico; actividades de los hogares como productores de bienes y servicios para uso propio - Accidentes
+Total con baja - Grave - Mujeres - U Organismos extraterritoriales - Accidentes
+Total con baja - Fallecimiento - Total - Total - Accidentes
+Total con baja - Fallecimiento - Total - A Agricultura, ganaderÃ­a, silvicultura y pesca - Accidentes
+Total con baja - Fallecimiento - Total - B Industrias extractivas - Accidentes
+Total con baja - Fallecimiento - Total - C Industria manufacturera - Accidentes
+Total con baja - Fallecimiento - Total - D Suministro de energÃ­a elÃ©ctrica, gas, vapor y aire acondicionado - Accidentes
+Total con baja - Fallecimiento - Total - E Suministro de agua, actividades de saneamiento, gestiÃ³n de residuos y descontaminaciÃ³n - Accidentes
+Total con baja - Fallecimiento - Total - F ConstrucciÃ³n - Accidentes
+Total con baja - Fallecimiento - Total - G Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos de motor y motocicletas - Accidentes
+Total con baja - Fallecimiento - Total - H Transporte y almacenamiento - Accidentes
+Total con baja - Fallecimiento - Total - I HostelerÃ­a - Accidentes
+Total con baja - Fallecimiento - Total - J InformaciÃ³n y comunicaciones - Accidentes
+Total con baja - Fallecimiento - Total - K Activifdades financieras y de seguros - Accidentes
+Total con baja - Fallecimiento - Total - L Actividades inmobiliarias - Accidentes
+Total con baja - Fallecimiento - Total - M Actividades profesionales, cientÃ­ficas y tÃ©cnicas - Accidentes
+Total con baja - Fallecimiento - Total - N Actividades administrativas y servicios auxiliares  - Accidentes
+Total con baja - Fallecimiento - Total - No consta - Accidentes
+Total con baja - Fallecimiento - Total - O AdministraciÃ³n pÃºblica y defensa; seguridad social obligatoria - Accidentes
+Total con baja - Fallecimiento - Total - P EducaciÃ³n - Accidentes
+Total con baja - Fallecimiento - Total - Q Actividades sanitarias y de servicios sociales - Accidentes
+Total con baja - Fallecimiento - Total - R Actividades artÃ­sticas, recreativas y de entretenimiento - Accidentes
+Total con baja - Fallecimiento - Total - S Otros servicios - Accidentes
+Total con baja - Fallecimiento - Total - T Actividades de los hogares como empleadores de personal domÃ©stico; actividades de los hogares como productores de bienes y servicios para uso propio - Accidentes
+Total con baja - Fallecimiento - Total - U Organismos extraterritoriales - Accidentes
+Total con baja - Fallecimiento - Hombres - Total - Accidentes
+Total con baja - Fallecimiento - Hombres - A Agricultura, ganaderÃ­a, silvicultura y pesca - Accidentes
+Total con baja - Fallecimiento - Hombres - B Industrias extractivas - Accidentes
+Total con baja - Fallecimiento - Hombres - C Industria manufacturera - Accidentes
+Total con baja - Fallecimiento - Hombres - D Suministro de energÃ­a elÃ©ctrica, gas, vapor y aire acondicionado - Accidentes
+Total con baja - Fallecimiento - Hombres - E Suministro de agua, actividades de saneamiento, gestiÃ³n de residuos y descontaminaciÃ³n - Accidentes
+Total con baja - Fallecimiento - Hombres - F ConstrucciÃ³n - Accidentes
+Total con baja - Fallecimiento - Hombres - G Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos de motor y motocicletas - Accidentes
+Total con baja - Fallecimiento - Hombres - H Transporte y almacenamiento - Accidentes
+Total con baja - Fallecimiento - Hombres - I HostelerÃ­a - Accidentes
+Total con baja - Fallecimiento - Hombres - J InformaciÃ³n y comunicaciones - Accidentes
+Total con baja - Fallecimiento - Hombres - K Activifdades financieras y de seguros - Accidentes
+Total con baja - Fallecimiento - Hombres - L Actividades inmobiliarias - Accidentes
+Total con baja - Fallecimiento - Hombres - M Actividades profesionales, cientÃ­ficas y tÃ©cnicas - Accidentes
+Total con baja - Fallecimiento - Hombres - N Actividades administrativas y servicios auxiliares  - Accidentes
+Total con baja - Fallecimiento - Hombres - No consta - Accidentes
+Total con baja - Fallecimiento - Hombres - O AdministraciÃ³n pÃºblica y defensa; seguridad social obligatoria - Accidentes
+Total con baja - Fallecimiento - Hombres - P EducaciÃ³n - Accidentes
+Total con baja - Fallecimiento - Hombres - Q Actividades sanitarias y de servicios sociales - Accidentes
+Total con baja - Fallecimiento - Hombres - R Actividades artÃ­sticas, recreativas y de entretenimiento - Accidentes
+Total con baja - Fallecimiento - Hombres - S Otros servicios - Accidentes
+Total con baja - Fallecimiento - Hombres - T Actividades de los hogares como empleadores de personal domÃ©stico; actividades de los hogares como productores de bienes y servicios para uso propio - Accidentes
+Total con baja - Fallecimiento - Hombres - U Organismos extraterritoriales - Accidentes
+Total con baja - Fallecimiento - Mujeres - Total - Accidentes
+Total con baja - Fallecimiento - Mujeres - A Agricultura, ganaderÃ­a, silvicultura y pesca - Accidentes
+Total con baja - Fallecimiento - Mujeres - B Industrias extractivas - Accidentes
+Total con baja - Fallecimiento - Mujeres - C Industria manufacturera - Accidentes
+Total con baja - Fallecimiento - Mujeres - D Suministro de energÃ­a elÃ©ctrica, gas, vapor y aire acondicionado - Accidentes
+Total con baja - Fallecimiento - Mujeres - E Suministro de agua, actividades de saneamiento, gestiÃ³n de residuos y descontaminaciÃ³n - Accidentes
+Total con baja - Fallecimiento - Mujeres - F ConstrucciÃ³n - Accidentes
+Total con baja - Fallecimiento - Mujeres - G Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos de motor y motocicletas - Accidentes
+Total con baja - Fallecimiento - Mujeres - H Transporte y almacenamiento - Accidentes
+Total con baja - Fallecimiento - Mujeres - I HostelerÃ­a - Accidentes
+Total con baja - Fallecimiento - Mujeres - J InformaciÃ³n y comunicaciones - Accidentes
+Total con baja - Fallecimiento - Mujeres - K Activifdades financieras y de seguros - Accidentes
+Total con baja - Fallecimiento - Mujeres - L Actividades inmobiliarias - Accidentes
+Total con baja - Fallecimiento - Mujeres - M Actividades profesionales, cientÃ­ficas y tÃ©cnicas - Accidentes
+Total con baja - Fallecimiento - Mujeres - N Actividades administrativas y servicios auxiliares  - Accidentes
+Total con baja - Fallecimiento - Mujeres - No consta - Accidentes
+Total con baja - Fallecimiento - Mujeres - O AdministraciÃ³n pÃºblica y defensa; seguridad social obligatoria - Accidentes
+Total con baja - Fallecimiento - Mujeres - P EducaciÃ³n - Accidentes
+Total con baja - Fallecimiento - Mujeres - Q Actividades sanitarias y de servicios sociales - Accidentes
+Total con baja - Fallecimiento - Mujeres - R Actividades artÃ­sticas, recreativas y de entretenimiento - Accidentes
+Total con baja - Fallecimiento - Mujeres - S Otros servicios - Accidentes
+Total con baja - Fallecimiento - Mujeres - T Actividades de los hogares como empleadores de personal domÃ©stico; actividades de los hogares como productores de bienes y servicios para uso propio - Accidentes
+Total con baja - Fallecimiento - Mujeres - U Organismos extraterritoriales - Accidentes
+En jornada - Total - Total - Total - Accidentes
+En jornada - Total - Total - A Agricultura, ganaderÃ­a, silvicultura y pesca - Accidentes
+En jornada - Total - Total - B Industrias extractivas - Accidentes
+En jornada - Total - Total - C Industria manufacturera - Accidentes
+En jornada - Total - Total - D Suministro de energÃ­a elÃ©ctrica, gas, vapor y aire acondicionado - Accidentes
+En jornada - Total - Total - E Suministro de agua, actividades de saneamiento, gestiÃ³n de residuos y descontaminaciÃ³n - Accidentes
+En jornada - Total - Total - F ConstrucciÃ³n - Accidentes
+En jornada - Total - Total - G Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos de motor y motocicletas - Accidentes
+En jornada - Total - Total - H Transporte y almacenamiento - Accidentes
+En jornada - Total - Total - I HostelerÃ­a - Accidentes
+En jornada - Total - Total - J InformaciÃ³n y comunicaciones - Accidentes
+En jornada - Total - Total - K Activifdades financieras y de seguros - Accidentes
+En jornada - Total - Total - L Actividades inmobiliarias - Accidentes
+En jornada - Total - Total - M Actividades profesionales, cientÃ­ficas y tÃ©cnicas - Accidentes
+En jornada - Total - Total - N Actividades administrativas y servicios auxiliares  - Accidentes
+En jornada - Total - Total - No consta - Accidentes
+En jornada - Total - Total - O AdministraciÃ³n pÃºblica y defensa; seguridad social obligatoria - Accidentes
+En jornada - Total - Total - P EducaciÃ³n - Accidentes
+En jornada - Total - Total - Q Actividades sanitarias y de servicios sociales - Accidentes
+En jornada - Total - Total - R Actividades artÃ­sticas, recreativas y de entretenimiento - Accidentes
+En jornada - Total - Total - S Otros servicios - Accidentes
+En jornada - Total - Total - T Actividades de los hogares como empleadores de personal domÃ©stico; actividades de los hogares como productores de bienes y servicios para uso propio - Accidentes
+En jornada - Total - Total - U Organismos extraterritoriales - Accidentes
+En jornada - Total - Hombres - Total - Accidentes
+En jornada - Total - Hombres - A Agricultura, ganaderÃ­a, silvicultura y pesca - Accidentes
+En jornada - Total - Hombres - B Industrias extractivas - Accidentes
+En jornada - Total - Hombres - C Industria manufacturera - Accidentes
+En jornada - Total - Hombres - D Suministro de energÃ­a elÃ©ctrica, gas, vapor y aire acondicionado - Accidentes
+En jornada - Total - Hombres - E Suministro de agua, actividades de saneamiento, gestiÃ³n de residuos y descontaminaciÃ³n - Accidentes
+En jornada - Total - Hombres - F ConstrucciÃ³n - Accidentes
+En jornada - Total - Hombres - G Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos de motor y motocicletas - Accidentes
+En jornada - Total - Hombres - H Transporte y almacenamiento - Accidentes
+En jornada - Total - Hombres - I HostelerÃ­a - Accidentes
+En jornada - Total - Hombres - J InformaciÃ³n y comunicaciones - Accidentes
+En jornada - Total - Hombres - K Activifdades financieras y de seguros - Accidentes
+En jornada - Total - Hombres - L Actividades inmobiliarias - Accidentes
+En jornada - Total - Hombres - M Actividades profesionales, cientÃ­ficas y tÃ©cnicas - Accidentes
+En jornada - Total - Hombres - N Actividades administrativas y servicios auxiliares  - Accidentes
+En jornada - Total - Hombres - No consta - Accidentes
+En jornada - Total - Hombres - O AdministraciÃ³n pÃºblica y defensa; seguridad social obligatoria - Accidentes
+En jornada - Total - Hombres - P EducaciÃ³n - Accidentes
+En jornada - Total - Hombres - Q Actividades sanitarias y de servicios sociales - Accidentes
+En jornada - Total - Hombres - R Actividades artÃ­sticas, recreativas y de entretenimiento - Accidentes
+En jornada - Total - Hombres - S Otros servicios - Accidentes
+En jornada - Total - Hombres - T Actividades de los hogares como empleadores de personal domÃ©stico; actividades de los hogares como productores de bienes y servicios para uso propio - Accidentes
+En jornada - Total - Hombres - U Organismos extraterritoriales - Accidentes
+En jornada - Total - Mujeres - Total - Accidentes
+En jornada - Total - Mujeres - A Agricultura, ganaderÃ­a, silvicultura y pesca - Accidentes
+En jornada - Total - Mujeres - B Industrias extractivas - Accidentes
+En jornada - Total - Mujeres - C Industria manufacturera - Accidentes
+En jornada - Total - Mujeres - D Suministro de energÃ­a elÃ©ctrica, gas, vapor y aire acondicionado - Accidentes
+En jornada - Total - Mujeres - E Suministro de agua, actividades de saneamiento, gestiÃ³n de residuos y descontaminaciÃ³n - Accidentes
+En jornada - Total - Mujeres - F ConstrucciÃ³n - Accidentes
+En jornada - Total - Mujeres - G Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos de motor y motocicletas - Accidentes
+En jornada - Total - Mujeres - H Transporte y almacenamiento - Accidentes
+En jornada - Total - Mujeres - I HostelerÃ­a - Accidentes
+En jornada - Total - Mujeres - J InformaciÃ³n y comunicaciones - Accidentes
+En jornada - Total - Mujeres - K Activifdades financieras y de seguros - Accidentes
+En jornada - Total - Mujeres - L Actividades inmobiliarias - Accidentes
+En jornada - Total - Mujeres - M Actividades profesionales, cientÃ­ficas y tÃ©cnicas - Accidentes
+En jornada - Total - Mujeres - N Actividades administrativas y servicios auxiliares  - Accidentes
+En jornada - Total - Mujeres - No consta - Accidentes
+En jornada - Total - Mujeres - O AdministraciÃ³n pÃºblica y defensa; seguridad social obligatoria - Accidentes
+En jornada - Total - Mujeres - P EducaciÃ³n - Accidentes
+En jornada - Total - Mujeres - Q Actividades sanitarias y de servicios sociales - Accidentes
+En jornada - Total - Mujeres - R Actividades artÃ­sticas, recreativas y de entretenimiento - Accidentes
+En jornada - Total - Mujeres - S Otros servicios - Accidentes
+En jornada - Total - Mujeres - T Actividades de los hogares como empleadores de personal domÃ©stico; actividades de los hogares como productores de bienes y servicios para uso propio - Accidentes
+En jornada - Total - Mujeres - U Organismos extraterritoriales - Accidentes
+En jornada - Leve - Total - Total - Accidentes
+En jornada - Leve - Total - A Agricultura, ganaderÃ­a, silvicultura y pesca - Accidentes
+En jornada - Leve - Total - B Industrias extractivas - Accidentes
+En jornada - Leve - Total - C Industria manufacturera - Accidentes
+En jornada - Leve - Total - D Suministro de energÃ­a elÃ©ctrica, gas, vapor y aire acondicionado - Accidentes
+En jornada - Leve - Total - E Suministro de agua, actividades de saneamiento, gestiÃ³n de residuos y descontaminaciÃ³n - Accidentes
+En jornada - Leve - Total - F ConstrucciÃ³n - Accidentes
+En jornada - Leve - Total - G Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos de motor y motocicletas - Accidentes
+En jornada - Leve - Total - H Transporte y almacenamiento - Accidentes
+En jornada - Leve - Total - I HostelerÃ­a - Accidentes
+En jornada - Leve - Total - J InformaciÃ³n y comunicaciones - Accidentes
+En jornada - Leve - Total - K Activifdades financieras y de seguros - Accidentes
+En jornada - Leve - Total - L Actividades inmobiliarias - Accidentes
+En jornada - Leve - Total - M Actividades profesionales, cientÃ­ficas y tÃ©cnicas - Accidentes
+En jornada - Leve - Total - N Actividades administrativas y servicios auxiliares  - Accidentes
+En jornada - Leve - Total - No consta - Accidentes
+En jornada - Leve - Total - O AdministraciÃ³n pÃºblica y defensa; seguridad social obligatoria - Accidentes
+En jornada - Leve - Total - P EducaciÃ³n - Accidentes
+En jornada - Leve - Total - Q Actividades sanitarias y de servicios sociales - Accidentes
+En jornada - Leve - Total - R Actividades artÃ­sticas, recreativas y de entretenimiento - Accidentes
+En jornada - Leve - Total - S Otros servicios - Accidentes
+En jornada - Leve - Total - T Actividades de los hogares como empleadores de personal domÃ©stico; actividades de los hogares como productores de bienes y servicios para uso propio - Accidentes
+En jornada - Leve - Total - U Organismos extraterritoriales - Accidentes
+En jornada - Leve - Hombres - Total - Accidentes
+En jornada - Leve - Hombres - A Agricultura, ganaderÃ­a, silvicultura y pesca - Accidentes
+En jornada - Leve - Hombres - B Industrias extractivas - Accidentes
+En jornada - Leve - Hombres - C Industria manufacturera - Accidentes
+En jornada - Leve - Hombres - D Suministro de energÃ­a elÃ©ctrica, gas, vapor y aire acondicionado - Accidentes
+En jornada - Leve - Hombres - E Suministro de agua, actividades de saneamiento, gestiÃ³n de residuos y descontaminaciÃ³n - Accidentes
+En jornada - Leve - Hombres - F ConstrucciÃ³n - Accidentes
+En jornada - Leve - Hombres - G Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos de motor y motocicletas - Accidentes
+En jornada - Leve - Hombres - H Transporte y almacenamiento - Accidentes
+En jornada - Leve - Hombres - I HostelerÃ­a - Accidentes
+En jornada - Leve - Hombres - J InformaciÃ³n y comunicaciones - Accidentes
+En jornada - Leve - Hombres - K Activifdades financieras y de seguros - Accidentes
+En jornada - Leve - Hombres - L Actividades inmobiliarias - Accidentes
+En jornada - Leve - Hombres - M Actividades profesionales, cientÃ­ficas y tÃ©cnicas - Accidentes
+En jornada - Leve - Hombres - N Actividades administrativas y servicios auxiliares  - Accidentes
+En jornada - Leve - Hombres - No consta - Accidentes
+En jornada - Leve - Hombres - O AdministraciÃ³n pÃºblica y defensa; seguridad social obligatoria - Accidentes
+En jornada - Leve - Hombres - P EducaciÃ³n - Accidentes
+En jornada - Leve - Hombres - Q Actividades sanitarias y de servicios sociales - Accidentes
+En jornada - Leve - Hombres - R Actividades artÃ­sticas, recreativas y de entretenimiento - Accidentes
+En jornada - Leve - Hombres - S Otros servicios - Accidentes
+En jornada - Leve - Hombres - T Actividades de los hogares como empleadores de personal domÃ©stico; actividades de los hogares como productores de bienes y servicios para uso propio - Accidentes
+En jornada - Leve - Hombres - U Organismos extraterritoriales - Accidentes
+En jornada - Leve - Mujeres - Total - Accidentes
+En jornada - Leve - Mujeres - A Agricultura, ganaderÃ­a, silvicultura y pesca - Accidentes
+En jornada - Leve - Mujeres - B Industrias extractivas - Accidentes
+En jornada - Leve - Mujeres - C Industria manufacturera - Accidentes
+En jornada - Leve - Mujeres - D Suministro de energÃ­a elÃ©ctrica, gas, vapor y aire acondicionado - Accidentes
+En jornada - Leve - Mujeres - E Suministro de agua, actividades de saneamiento, gestiÃ³n de residuos y descontaminaciÃ³n - Accidentes
+En jornada - Leve - Mujeres - F ConstrucciÃ³n - Accidentes
+En jornada - Leve - Mujeres - G Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos de motor y motocicletas - Accidentes
+En jornada - Leve - Mujeres - H Transporte y almacenamiento - Accidentes
+En jornada - Leve - Mujeres - I HostelerÃ­a - Accidentes
+En jornada - Leve - Mujeres - J InformaciÃ³n y comunicaciones - Accidentes
+En jornada - Leve - Mujeres - K Activifdades financieras y de seguros - Accidentes
+En jornada - Leve - Mujeres - L Actividades inmobiliarias - Accidentes
+En jornada - Leve - Mujeres - M Actividades profesionales, cientÃ­ficas y tÃ©cnicas - Accidentes
+En jornada - Leve - Mujeres - N Actividades administrativas y servicios auxiliares  - Accidentes
+En jornada - Leve - Mujeres - No consta - Accidentes
+En jornada - Leve - Mujeres - O AdministraciÃ³n pÃºblica y defensa; seguridad social obligatoria - Accidentes
+En jornada - Leve - Mujeres - P EducaciÃ³n - Accidentes
+En jornada - Leve - Mujeres - Q Actividades sanitarias y de servicios sociales - Accidentes
+En jornada - Leve - Mujeres - R Actividades artÃ­sticas, recreativas y de entretenimiento - Accidentes
+En jornada - Leve - Mujeres - S Otros servicios - Accidentes
+En jornada - Leve - Mujeres - T Actividades de los hogares como empleadores de personal domÃ©stico; actividades de los hogares como productores de bienes y servicios para uso propio - Accidentes
+En jornada - Leve - Mujeres - U Organismos extraterritoriales - Accidentes
+En jornada - Grave - Total - Total - Accidentes
+En jornada - Grave - Total - A Agricultura, ganaderÃ­a, silvicultura y pesca - Accidentes
+En jornada - Grave - Total - B Industrias extractivas - Accidentes
+En jornada - Grave - Total - C Industria manufacturera - Accidentes
+En jornada - Grave - Total - D Suministro de energÃ­a elÃ©ctrica, gas, vapor y aire acondicionado - Accidentes
+En jornada - Grave - Total - E Suministro de agua, actividades de saneamiento, gestiÃ³n de residuos y descontaminaciÃ³n - Accidentes
+En jornada - Grave - Total - F ConstrucciÃ³n - Accidentes
+En jornada - Grave - Total - G Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos de motor y motocicletas - Accidentes
+En jornada - Grave - Total - H Transporte y almacenamiento - Accidentes
+En jornada - Grave - Total - I HostelerÃ­a - Accidentes
+En jornada - Grave - Total - J InformaciÃ³n y comunicaciones - Accidentes
+En jornada - Grave - Total - K Activifdades financieras y de seguros - Accidentes
+En jornada - Grave - Total - L Actividades inmobiliarias - Accidentes
+En jornada - Grave - Total - M Actividades profesionales, cientÃ­ficas y tÃ©cnicas - Accidentes
+En jornada - Grave - Total - N Actividades administrativas y servicios auxiliares  - Accidentes
+En jornada - Grave - Total - No consta - Accidentes
+En jornada - Grave - Total - O AdministraciÃ³n pÃºblica y defensa; seguridad social obligatoria - Accidentes
+En jornada - Grave - Total - P EducaciÃ³n - Accidentes
+En jornada - Grave - Total - Q Actividades sanitarias y de servicios sociales - Accidentes
+En jornada - Grave - Total - R Actividades artÃ­sticas, recreativas y de entretenimiento - Accidentes
+En jornada - Grave - Total - S Otros servicios - Accidentes
+En jornada - Grave - Total - T Actividades de los hogares como empleadores de personal domÃ©stico; actividades de los hogares como productores de bienes y servicios para uso propio - Accidentes
+En jornada - Grave - Total - U Organismos extraterritoriales - Accidentes
+En jornada - Grave - Hombres - Total - Accidentes
+En jornada - Grave - Hombres - A Agricultura, ganaderÃ­a, silvicultura y pesca - Accidentes
+En jornada - Grave - Hombres - B Industrias extractivas - Accidentes
+En jornada - Grave - Hombres - C Industria manufacturera - Accidentes
+En jornada - Grave - Hombres - D Suministro de energÃ­a elÃ©ctrica, gas, vapor y aire acondicionado - Accidentes
+En jornada - Grave - Hombres - E Suministro de agua, actividades de saneamiento, gestiÃ³n de residuos y descontaminaciÃ³n - Accidentes
+En jornada - Grave - Hombres - F ConstrucciÃ³n - Accidentes
+En jornada - Grave - Hombres - G Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos de motor y motocicletas - Accidentes
+En jornada - Grave - Hombres - H Transporte y almacenamiento - Accidentes
+En jornada - Grave - Hombres - I HostelerÃ­a - Accidentes
+En jornada - Grave - Hombres - J InformaciÃ³n y comunicaciones - Accidentes
+En jornada - Grave - Hombres - K Activifdades financieras y de seguros - Accidentes
+En jornada - Grave - Hombres - L Actividades inmobiliarias - Accidentes
+En jornada - Grave - Hombres - M Actividades profesionales, cientÃ­ficas y tÃ©cnicas - Accidentes
+En jornada - Grave - Hombres - N Actividades administrativas y servicios auxiliares  - Accidentes
+En jornada - Grave - Hombres - No consta - Accidentes
+En jornada - Grave - Hombres - O AdministraciÃ³n pÃºblica y defensa; seguridad social obligatoria - Accidentes
+En jornada - Grave - Hombres - P EducaciÃ³n - Accidentes
+En jornada - Grave - Hombres - Q Actividades sanitarias y de servicios sociales - Accidentes
+En jornada - Grave - Hombres - R Actividades artÃ­sticas, recreativas y de entretenimiento - Accidentes
+En jornada - Grave - Hombres - S Otros servicios - Accidentes
+En jornada - Grave - Hombres - T Actividades de los hogares como empleadores de personal domÃ©stico; actividades de los hogares como productores de bienes y servicios para uso propio - Accidentes
+En jornada - Grave - Hombres - U Organismos extraterritoriales - Accidentes
+En jornada - Grave - Mujeres - Total - Accidentes
+En jornada - Grave - Mujeres - A Agricultura, ganaderÃ­a, silvicultura y pesca - Accidentes
+En jornada - Grave - Mujeres - B Industrias extractivas - Accidentes
+En jornada - Grave - Mujeres - C Industria manufacturera - Accidentes
+En jornada - Grave - Mujeres - D Suministro de energÃ­a elÃ©ctrica, gas, vapor y aire acondicionado - Accidentes
+En jornada - Grave - Mujeres - E Suministro de agua, actividades de saneamiento, gestiÃ³n de residuos y descontaminaciÃ³n - Accidentes
+En jornada - Grave - Mujeres - F ConstrucciÃ³n - Accidentes
+En jornada - Grave - Mujeres - G Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos de motor y motocicletas - Accidentes
+En jornada - Grave - Mujeres - H Transporte y almacenamiento - Accidentes
+En jornada - Grave - Mujeres - I HostelerÃ­a - Accidentes
+En jornada - Grave - Mujeres - J InformaciÃ³n y comunicaciones - Accidentes
+En jornada - Grave - Mujeres - K Activifdades financieras y de seguros - Accidentes
+En jornada - Grave - Mujeres - L Actividades inmobiliarias - Accidentes
+En jornada - Grave - Mujeres - M Actividades profesionales, cientÃ­ficas y tÃ©cnicas - Accidentes
+En jornada - Grave - Mujeres - N Actividades administrativas y servicios auxiliares  - Accidentes
+En jornada - Grave - Mujeres - No consta - Accidentes
+En jornada - Grave - Mujeres - O AdministraciÃ³n pÃºblica y defensa; seguridad social obligatoria - Accidentes
+En jornada - Grave - Mujeres - P EducaciÃ³n - Accidentes
+En jornada - Grave - Mujeres - Q Actividades sanitarias y de servicios sociales - Accidentes
+En jornada - Grave - Mujeres - R Actividades artÃ­sticas, recreativas y de entretenimiento - Accidentes
+En jornada - Grave - Mujeres - S Otros servicios - Accidentes
+En jornada - Grave - Mujeres - T Actividades de los hogares como empleadores de personal domÃ©stico; actividades de los hogares como productores de bienes y servicios para uso propio - Accidentes
+En jornada - Grave - Mujeres - U Organismos extraterritoriales - Accidentes
+En jornada - Fallecimiento - Total - Total - Accidentes
+En jornada - Fallecimiento - Total - A Agricultura, ganaderÃ­a, silvicultura y pesca - Accidentes
+En jornada - Fallecimiento - Total - B Industrias extractivas - Accidentes
+En jornada - Fallecimiento - Total - C Industria manufacturera - Accidentes
+En jornada - Fallecimiento - Total - D Suministro de energÃ­a elÃ©ctrica, gas, vapor y aire acondicionado - Accidentes
+En jornada - Fallecimiento - Total - E Suministro de agua, actividades de saneamiento, gestiÃ³n de residuos y descontaminaciÃ³n - Accidentes
+En jornada - Fallecimiento - Total - F ConstrucciÃ³n - Accidentes
+En jornada - Fallecimiento - Total - G Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos de motor y motocicletas - Accidentes
+En jornada - Fallecimiento - Total - H Transporte y almacenamiento - Accidentes
+En jornada - Fallecimiento - Total - I HostelerÃ­a - Accidentes
+En jornada - Fallecimiento - Total - J InformaciÃ³n y comunicaciones - Accidentes
+En jornada - Fallecimiento - Total - K Activifdades financieras y de seguros - Accidentes
+En jornada - Fallecimiento - Total - L Actividades inmobiliarias - Accidentes
+En jornada - Fallecimiento - Total - M Actividades profesionales, cientÃ­ficas y tÃ©cnicas - Accidentes
+En jornada - Fallecimiento - Total - N Actividades administrativas y servicios auxiliares  - Accidentes
+En jornada - Fallecimiento - Total - No consta - Accidentes
+En jornada - Fallecimiento - Total - O AdministraciÃ³n pÃºblica y defensa; seguridad social obligatoria - Accidentes
+En jornada - Fallecimiento - Total - P EducaciÃ³n - Accidentes
+En jornada - Fallecimiento - Total - Q Actividades sanitarias y de servicios sociales - Accidentes
+En jornada - Fallecimiento - Total - R Actividades artÃ­sticas, recreativas y de entretenimiento - Accidentes
+En jornada - Fallecimiento - Total - S Otros servicios - Accidentes
+En jornada - Fallecimiento - Total - T Actividades de los hogares como empleadores de personal domÃ©stico; actividades de los hogares como productores de bienes y servicios para uso propio - Accidentes
+En jornada - Fallecimiento - Total - U Organismos extraterritoriales - Accidentes
+En jornada - Fallecimiento - Hombres - Total - Accidentes
+En jornada - Fallecimiento - Hombres - A Agricultura, ganaderÃ­a, silvicultura y pesca - Accidentes
+En jornada - Fallecimiento - Hombres - B Industrias extractivas - Accidentes
+En jornada - Fallecimiento - Hombres - C Industria manufacturera - Accidentes
+En jornada - Fallecimiento - Hombres - D Suministro de energÃ­a elÃ©ctrica, gas, vapor y aire acondicionado - Accidentes
+En jornada - Fallecimiento - Hombres - E Suministro de agua, actividades de saneamiento, gestiÃ³n de residuos y descontaminaciÃ³n - Accidentes
+En jornada - Fallecimiento - Hombres - F ConstrucciÃ³n - Accidentes
+En jornada - Fallecimiento - Hombres - G Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos de motor y motocicletas - Accidentes
+En jornada - Fallecimiento - Hombres - H Transporte y almacenamiento - Accidentes
+En jornada - Fallecimiento - Hombres - I HostelerÃ­a - Accidentes
+En jornada - Fallecimiento - Hombres - J InformaciÃ³n y comunicaciones - Accidentes
+En jornada - Fallecimiento - Hombres - K Activifdades financieras y de seguros - Accidentes
+En jornada - Fallecimiento - Hombres - L Actividades inmobiliarias - Accidentes
+En jornada - Fallecimiento - Hombres - M Actividades profesionales, cientÃ­ficas y tÃ©cnicas - Accidentes
+En jornada - Fallecimiento - Hombres - N Actividades administrativas y servicios auxiliares  - Accidentes
+En jornada - Fallecimiento - Hombres - No consta - Accidentes
+En jornada - Fallecimiento - Hombres - O AdministraciÃ³n pÃºblica y defensa; seguridad social obligatoria - Accidentes
+En jornada - Fallecimiento - Hombres - P EducaciÃ³n - Accidentes
+En jornada - Fallecimiento - Hombres - Q Actividades sanitarias y de servicios sociales - Accidentes
+En jornada - Fallecimiento - Hombres - R Actividades artÃ­sticas, recreativas y de entretenimiento - Accidentes
+En jornada - Fallecimiento - Hombres - S Otros servicios - Accidentes
+En jornada - Fallecimiento - Hombres - T Actividades de los hogares como empleadores de personal domÃ©stico; actividades de los hogares como productores de bienes y servicios para uso propio - Accidentes
+En jornada - Fallecimiento - Hombres - U Organismos extraterritoriales - Accidentes
+En jornada - Fallecimiento - Mujeres - Total - Accidentes
+En jornada - Fallecimiento - Mujeres - A Agricultura, ganaderÃ­a, silvicultura y pesca - Accidentes
+En jornada - Fallecimiento - Mujeres - B Industrias extractivas - Accidentes
+En jornada - Fallecimiento - Mujeres - C Industria manufacturera - Accidentes
+En jornada - Fallecimiento - Mujeres - D Suministro de energÃ­a elÃ©ctrica, gas, vapor y aire acondicionado - Accidentes
+En jornada - Fallecimiento - Mujeres - E Suministro de agua, actividades de saneamiento, gestiÃ³n de residuos y descontaminaciÃ³n - Accidentes
+En jornada - Fallecimiento - Mujeres - F ConstrucciÃ³n - Accidentes
+En jornada - Fallecimiento - Mujeres - G Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos de motor y motocicletas - Accidentes
+En jornada - Fallecimiento - Mujeres - H Transporte y almacenamiento - Accidentes
+En jornada - Fallecimiento - Mujeres - I HostelerÃ­a - Accidentes
+En jornada - Fallecimiento - Mujeres - J InformaciÃ³n y comunicaciones - Accidentes
+En jornada - Fallecimiento - Mujeres - K Activifdades financieras y de seguros - Accidentes
+En jornada - Fallecimiento - Mujeres - L Actividades inmobiliarias - Accidentes
+En jornada - Fallecimiento - Mujeres - M Actividades profesionales, cientÃ­ficas y tÃ©cnicas - Accidentes
+En jornada - Fallecimiento - Mujeres - N Actividades administrativas y servicios auxiliares  - Accidentes
+En jornada - Fallecimiento - Mujeres - No consta - Accidentes
+En jornada - Fallecimiento - Mujeres - O AdministraciÃ³n pÃºblica y defensa; seguridad social obligatoria - Accidentes
+En jornada - Fallecimiento - Mujeres - P EducaciÃ³n - Accidentes
+En jornada - Fallecimiento - Mujeres - Q Actividades sanitarias y de servicios sociales - Accidentes
+En jornada - Fallecimiento - Mujeres - R Actividades artÃ­sticas, recreativas y de entretenimiento - Accidentes
+En jornada - Fallecimiento - Mujeres - S Otros servicios - Accidentes
+En jornada - Fallecimiento - Mujeres - T Actividades de los hogares como empleadores de personal domÃ©stico; actividades de los hogares como productores de bienes y servicios para uso propio - Accidentes
+En jornada - Fallecimiento - Mujeres - U Organismos extraterritoriales - Accidentes
+In itinere - Total - Total - Total - Accidentes
+In itinere - Total - Total - A Agricultura, ganaderÃ­a, silvicultura y pesca - Accidentes
+In itinere - Total - Total - B Industrias extractivas - Accidentes
+In itinere - Total - Total - C Industria manufacturera - Accidentes
+In itinere - Total - Total - D Suministro de energÃ­a elÃ©ctrica, gas, vapor y aire acondicionado - Accidentes
+In itinere - Total - Total - E Suministro de agua, actividades de saneamiento, gestiÃ³n de residuos y descontaminaciÃ³n - Accidentes
+In itinere - Total - Total - F ConstrucciÃ³n - Accidentes
+In itinere - Total - Total - G Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos de motor y motocicletas - Accidentes
+In itinere - Total - Total - H Transporte y almacenamiento - Accidentes
+In itinere - Total - Total - I HostelerÃ­a - Accidentes
+In itinere - Total - Total - J InformaciÃ³n y comunicaciones - Accidentes
+In itinere - Total - Total - K Activifdades financieras y de seguros - Accidentes
+In itinere - Total - Total - L Actividades inmobiliarias - Accidentes
+In itinere - Total - Total - M Actividades profesionales, cientÃ­ficas y tÃ©cnicas - Accidentes
+In itinere - Total - Total - N Actividades administrativas y servicios auxiliares  - Accidentes
+In itinere - Total - Total - No consta - Accidentes
+In itinere - Total - Total - O AdministraciÃ³n pÃºblica y defensa; seguridad social obligatoria - Accidentes
+In itinere - Total - Total - P EducaciÃ³n - Accidentes
+In itinere - Total - Total - Q Actividades sanitarias y de servicios sociales - Accidentes
+In itinere - Total - Total - R Actividades artÃ­sticas, recreativas y de entretenimiento - Accidentes
+In itinere - Total - Total - S Otros servicios - Accidentes
+In itinere - Total - Total - T Actividades de los hogares como empleadores de personal domÃ©stico; actividades de los hogares como productores de bienes y servicios para uso propio - Accidentes
+In itinere - Total - Total - U Organismos extraterritoriales - Accidentes
+In itinere - Total - Hombres - Total - Accidentes
+In itinere - Total - Hombres - A Agricultura, ganaderÃ­a, silvicultura y pesca - Accidentes
+In itinere - Total - Hombres - B Industrias extractivas - Accidentes
+In itinere - Total - Hombres - C Industria manufacturera - Accidentes
+In itinere - Total - Hombres - D Suministro de energÃ­a elÃ©ctrica, gas, vapor y aire acondicionado - Accidentes
+In itinere - Total - Hombres - E Suministro de agua, actividades de saneamiento, gestiÃ³n de residuos y descontaminaciÃ³n - Accidentes
+In itinere - Total - Hombres - F ConstrucciÃ³n - Accidentes
+In itinere - Total - Hombres - G Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos de motor y motocicletas - Accidentes
+In itinere - Total - Hombres - H Transporte y almacenamiento - Accidentes
+In itinere - Total - Hombres - I HostelerÃ­a - Accidentes
+In itinere - Total - Hombres - J InformaciÃ³n y comunicaciones - Accidentes
+In itinere - Total - Hombres - K Activifdades financieras y de seguros - Accidentes
+In itinere - Total - Hombres - L Actividades inmobiliarias - Accidentes
+In itinere - Total - Hombres - M Actividades profesionales, cientÃ­ficas y tÃ©cnicas - Accidentes
+In itinere - Total - Hombres - N Actividades administrativas y servicios auxiliares  - Accidentes
+In itinere - Total - Hombres - No consta - Accidentes
+In itinere - Total - Hombres - O AdministraciÃ³n pÃºblica y defensa; seguridad social obligatoria - Accidentes
+In itinere - Total - Hombres - P EducaciÃ³n - Accidentes
+In itinere - Total - Hombres - Q Actividades sanitarias y de servicios sociales - Accidentes
+In itinere - Total - Hombres - R Actividades artÃ­sticas, recreativas y de entretenimiento - Accidentes
+In itinere - Total - Hombres - S Otros servicios - Accidentes
+In itinere - Total - Hombres - T Actividades de los hogares como empleadores de personal domÃ©stico; actividades de los hogares como productores de bienes y servicios para uso propio - Accidentes
+In itinere - Total - Hombres - U Organismos extraterritoriales - Accidentes
+In itinere - Total - Mujeres - Total - Accidentes
+In itinere - Total - Mujeres - A Agricultura, ganaderÃ­a, silvicultura y pesca - Accidentes
+In itinere - Total - Mujeres - B Industrias extractivas - Accidentes
+In itinere - Total - Mujeres - C Industria manufacturera - Accidentes
+In itinere - Total - Mujeres - D Suministro de energÃ­a elÃ©ctrica, gas, vapor y aire acondicionado - Accidentes
+In itinere - Total - Mujeres - E Suministro de agua, actividades de saneamiento, gestiÃ³n de residuos y descontaminaciÃ³n - Accidentes
+In itinere - Total - Mujeres - F ConstrucciÃ³n - Accidentes
+In itinere - Total - Mujeres - G Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos de motor y motocicletas - Accidentes
+In itinere - Total - Mujeres - H Transporte y almacenamiento - Accidentes
+In itinere - Total - Mujeres - I HostelerÃ­a - Accidentes
+In itinere - Total - Mujeres - J InformaciÃ³n y comunicaciones - Accidentes
+In itinere - Total - Mujeres - K Activifdades financieras y de seguros - Accidentes
+In itinere - Total - Mujeres - L Actividades inmobiliarias - Accidentes
+In itinere - Total - Mujeres - M Actividades profesionales, cientÃ­ficas y tÃ©cnicas - Accidentes
+In itinere - Total - Mujeres - N Actividades administrativas y servicios auxiliares  - Accidentes
+In itinere - Total - Mujeres - No consta - Accidentes
+In itinere - Total - Mujeres - O AdministraciÃ³n pÃºblica y defensa; seguridad social obligatoria - Accidentes
+In itinere - Total - Mujeres - P EducaciÃ³n - Accidentes
+In itinere - Total - Mujeres - Q Actividades sanitarias y de servicios sociales - Accidentes
+In itinere - Total - Mujeres - R Actividades artÃ­sticas, recreativas y de entretenimiento - Accidentes
+In itinere - Total - Mujeres - S Otros servicios - Accidentes
+In itinere - Total - Mujeres - T Actividades de los hogares como empleadores de personal domÃ©stico; actividades de los hogares como productores de bienes y servicios para uso propio - Accidentes
+In itinere - Total - Mujeres - U Organismos extraterritoriales - Accidentes
+In itinere - Leve - Total - Total - Accidentes
+In itinere - Leve - Total - A Agricultura, ganaderÃ­a, silvicultura y pesca - Accidentes
+In itinere - Leve - Total - B Industrias extractivas - Accidentes
+In itinere - Leve - Total - C Industria manufacturera - Accidentes
+In itinere - Leve - Total - D Suministro de energÃ­a elÃ©ctrica, gas, vapor y aire acondicionado - Accidentes
+In itinere - Leve - Total - E Suministro de agua, actividades de saneamiento, gestiÃ³n de residuos y descontaminaciÃ³n - Accidentes
+In itinere - Leve - Total - F ConstrucciÃ³n - Accidentes
+In itinere - Leve - Total - G Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos de motor y motocicletas - Accidentes
+In itinere - Leve - Total - H Transporte y almacenamiento - Accidentes
+In itinere - Leve - Total - I HostelerÃ­a - Accidentes
+In itinere - Leve - Total - J InformaciÃ³n y comunicaciones - Accidentes
+In itinere - Leve - Total - K Activifdades financieras y de seguros - Accidentes
+In itinere - Leve - Total - L Actividades inmobiliarias - Accidentes
+In itinere - Leve - Total - M Actividades profesionales, cientÃ­ficas y tÃ©cnicas - Accidentes
+In itinere - Leve - Total - N Actividades administrativas y servicios auxiliares  - Accidentes
+In itinere - Leve - Total - No consta - Accidentes
+In itinere - Leve - Total - O AdministraciÃ³n pÃºblica y defensa; seguridad social obligatoria - Accidentes
+In itinere - Leve - Total - P EducaciÃ³n - Accidentes
+In itinere - Leve - Total - Q Actividades sanitarias y de servicios sociales - Accidentes
+In itinere - Leve - Total - R Actividades artÃ­sticas, recreativas y de entretenimiento - Accidentes
+In itinere - Leve - Total - S Otros servicios - Accidentes
+In itinere - Leve - Total - T Actividades de los hogares como empleadores de personal domÃ©stico; actividades de los hogares como productores de bienes y servicios para uso propio - Accidentes
+In itinere - Leve - Total - U Organismos extraterritoriales - Accidentes
+In itinere - Leve - Hombres - Total - Accidentes
+In itinere - Leve - Hombres - A Agricultura, ganaderÃ­a, silvicultura y pesca - Accidentes
+In itinere - Leve - Hombres - B Industrias extractivas - Accidentes
+In itinere - Leve - Hombres - C Industria manufacturera - Accidentes
+In itinere - Leve - Hombres - D Suministro de energÃ­a elÃ©ctrica, gas, vapor y aire acondicionado - Accidentes
+In itinere - Leve - Hombres - E Suministro de agua, actividades de saneamiento, gestiÃ³n de residuos y descontaminaciÃ³n - Accidentes
+In itinere - Leve - Hombres - F ConstrucciÃ³n - Accidentes
+In itinere - Leve - Hombres - G Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos de motor y motocicletas - Accidentes
+In itinere - Leve - Hombres - H Transporte y almacenamiento - Accidentes
+In itinere - Leve - Hombres - I HostelerÃ­a - Accidentes
+In itinere - Leve - Hombres - J InformaciÃ³n y comunicaciones - Accidentes
+In itinere - Leve - Hombres - K Activifdades financieras y de seguros - Accidentes
+In itinere - Leve - Hombres - L Actividades inmobiliarias - Accidentes
+In itinere - Leve - Hombres - M Actividades profesionales, cientÃ­ficas y tÃ©cnicas - Accidentes
+In itinere - Leve - Hombres - N Actividades administrativas y servicios auxiliares  - Accidentes
+In itinere - Leve - Hombres - No consta - Accidentes
+In itinere - Leve - Hombres - O AdministraciÃ³n pÃºblica y defensa; seguridad social obligatoria - Accidentes
+In itinere - Leve - Hombres - P EducaciÃ³n - Accidentes
+In itinere - Leve - Hombres - Q Actividades sanitarias y de servicios sociales - Accidentes
+In itinere - Leve - Hombres - R Actividades artÃ­sticas, recreativas y de entretenimiento - Accidentes
+In itinere - Leve - Hombres - S Otros servicios - Accidentes
+In itinere - Leve - Hombres - T Actividades de los hogares como empleadores de personal domÃ©stico; actividades de los hogares como productores de bienes y servicios para uso propio - Accidentes
+In itinere - Leve - Hombres - U Organismos extraterritoriales - Accidentes
+In itinere - Leve - Mujeres - Total - Accidentes
+In itinere - Leve - Mujeres - A Agricultura, ganaderÃ­a, silvicultura y pesca - Accidentes
+In itinere - Leve - Mujeres - B Industrias extractivas - Accidentes
+In itinere - Leve - Mujeres - C Industria manufacturera - Accidentes
+In itinere - Leve - Mujeres - D Suministro de energÃ­a elÃ©ctrica, gas, vapor y aire acondicionado - Accidentes
+In itinere - Leve - Mujeres - E Suministro de agua, actividades de saneamiento, gestiÃ³n de residuos y descontaminaciÃ³n - Accidentes
+In itinere - Leve - Mujeres - F ConstrucciÃ³n - Accidentes
+In itinere - Leve - Mujeres - G Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos de motor y motocicletas - Accidentes
+In itinere - Leve - Mujeres - H Transporte y almacenamiento - Accidentes
+In itinere - Leve - Mujeres - I HostelerÃ­a - Accidentes
+In itinere - Leve - Mujeres - J InformaciÃ³n y comunicaciones - Accidentes
+In itinere - Leve - Mujeres - K Activifdades financieras y de seguros - Accidentes
+In itinere - Leve - Mujeres - L Actividades inmobiliarias - Accidentes
+In itinere - Leve - Mujeres - M Actividades profesionales, cientÃ­ficas y tÃ©cnicas - Accidentes
+In itinere - Leve - Mujeres - N Actividades administrativas y servicios auxiliares  - Accidentes
+In itinere - Leve - Mujeres - No consta - Accidentes
+In itinere - Leve - Mujeres - O AdministraciÃ³n pÃºblica y defensa; seguridad social obligatoria - Accidentes
+In itinere - Leve - Mujeres - P EducaciÃ³n - Accidentes
+In itinere - Leve - Mujeres - Q Actividades sanitarias y de servicios sociales - Accidentes
+In itinere - Leve - Mujeres - R Actividades artÃ­sticas, recreativas y de entretenimiento - Accidentes
+In itinere - Leve - Mujeres - S Otros servicios - Accidentes
+In itinere - Leve - Mujeres - T Actividades de los hogares como empleadores de personal domÃ©stico; actividades de los hogares como productores de bienes y servicios para uso propio - Accidentes
+In itinere - Leve - Mujeres - U Organismos extraterritoriales - Accidentes
+In itinere - Grave - Total - Total - Accidentes
+In itinere - Grave - Total - A Agricultura, ganaderÃ­a, silvicultura y pesca - Accidentes
+In itinere - Grave - Total - B Industrias extractivas - Accidentes
+In itinere - Grave - Total - C Industria manufacturera - Accidentes
+In itinere - Grave - Total - D Suministro de energÃ­a elÃ©ctrica, gas, vapor y aire acondicionado - Accidentes
+In itinere - Grave - Total - E Suministro de agua, actividades de saneamiento, gestiÃ³n de residuos y descontaminaciÃ³n - Accidentes
+In itinere - Grave - Total - F ConstrucciÃ³n - Accidentes
+In itinere - Grave - Total - G Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos de motor y motocicletas - Accidentes
+In itinere - Grave - Total - H Transporte y almacenamiento - Accidentes
+In itinere - Grave - Total - I HostelerÃ­a - Accidentes
+In itinere - Grave - Total - J InformaciÃ³n y comunicaciones - Accidentes
+In itinere - Grave - Total - K Activifdades financieras y de seguros - Accidentes
+In itinere - Grave - Total - L Actividades inmobiliarias - Accidentes
+In itinere - Grave - Total - M Actividades profesionales, cientÃ­ficas y tÃ©cnicas - Accidentes
+In itinere - Grave - Total - N Actividades administrativas y servicios auxiliares  - Accidentes
+In itinere - Grave - Total - No consta - Accidentes
+In itinere - Grave - Total - O AdministraciÃ³n pÃºblica y defensa; seguridad social obligatoria - Accidentes
+In itinere - Grave - Total - P EducaciÃ³n - Accidentes
+In itinere - Grave - Total - Q Actividades sanitarias y de servicios sociales - Accidentes
+In itinere - Grave - Total - R Actividades artÃ­sticas, recreativas y de entretenimiento - Accidentes
+In itinere - Grave - Total - S Otros servicios - Accidentes
+In itinere - Grave - Total - T Actividades de los hogares como empleadores de personal domÃ©stico; actividades de los hogares como productores de bienes y servicios para uso propio - Accidentes
+In itinere - Grave - Total - U Organismos extraterritoriales - Accidentes
+In itinere - Grave - Hombres - Total - Accidentes
+In itinere - Grave - Hombres - A Agricultura, ganaderÃ­a, silvicultura y pesca - Accidentes
+In itinere - Grave - Hombres - B Industrias extractivas - Accidentes
+In itinere - Grave - Hombres - C Industria manufacturera - Accidentes
+In itinere - Grave - Hombres - D Suministro de energÃ­a elÃ©ctrica, gas, vapor y aire acondicionado - Accidentes
+In itinere - Grave - Hombres - E Suministro de agua, actividades de saneamiento, gestiÃ³n de residuos y descontaminaciÃ³n - Accidentes
+In itinere - Grave - Hombres - F ConstrucciÃ³n - Accidentes
+In itinere - Grave - Hombres - G Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos de motor y motocicletas - Accidentes
+In itinere - Grave - Hombres - H Transporte y almacenamiento - Accidentes
+In itinere - Grave - Hombres - I HostelerÃ­a - Accidentes
+In itinere - Grave - Hombres - J InformaciÃ³n y comunicaciones - Accidentes
+In itinere - Grave - Hombres - K Activifdades financieras y de seguros - Accidentes
+In itinere - Grave - Hombres - L Actividades inmobiliarias - Accidentes
+In itinere - Grave - Hombres - M Actividades profesionales, cientÃ­ficas y tÃ©cnicas - Accidentes
+In itinere - Grave - Hombres - N Actividades administrativas y servicios auxiliares  - Accidentes
+In itinere - Grave - Hombres - No consta - Accidentes
+In itinere - Grave - Hombres - O AdministraciÃ³n pÃºblica y defensa; seguridad social obligatoria - Accidentes
+In itinere - Grave - Hombres - P EducaciÃ³n - Accidentes
+In itinere - Grave - Hombres - Q Actividades sanitarias y de servicios sociales - Accidentes
+In itinere - Grave - Hombres - R Actividades artÃ­sticas, recreativas y de entretenimiento - Accidentes
+In itinere - Grave - Hombres - S Otros servicios - Accidentes
+In itinere - Grave - Hombres - T Actividades de los hogares como empleadores de personal domÃ©stico; actividades de los hogares como productores de bienes y servicios para uso propio - Accidentes
+In itinere - Grave - Hombres - U Organismos extraterritoriales - Accidentes
+In itinere - Grave - Mujeres - Total - Accidentes
+In itinere - Grave - Mujeres - A Agricultura, ganaderÃ­a, silvicultura y pesca - Accidentes
+In itinere - Grave - Mujeres - B Industrias extractivas - Accidentes
+In itinere - Grave - Mujeres - C Industria manufacturera - Accidentes
+In itinere - Grave - Mujeres - D Suministro de energÃ­a elÃ©ctrica, gas, vapor y aire acondicionado - Accidentes
+In itinere - Grave - Mujeres - E Suministro de agua, actividades de saneamiento, gestiÃ³n de residuos y descontaminaciÃ³n - Accidentes
+In itinere - Grave - Mujeres - F ConstrucciÃ³n - Accidentes
+In itinere - Grave - Mujeres - G Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos de motor y motocicletas - Accidentes
+In itinere - Grave - Mujeres - H Transporte y almacenamiento - Accidentes
+In itinere - Grave - Mujeres - I HostelerÃ­a - Accidentes
+In itinere - Grave - Mujeres - J InformaciÃ³n y comunicaciones - Accidentes
+In itinere - Grave - Mujeres - K Activifdades financieras y de seguros - Accidentes
+In itinere - Grave - Mujeres - L Actividades inmobiliarias - Accidentes
+In itinere - Grave - Mujeres - M Actividades profesionales, cientÃ­ficas y tÃ©cnicas - Accidentes
+In itinere - Grave - Mujeres - N Actividades administrativas y servicios auxiliares  - Accidentes
+In itinere - Grave - Mujeres - No consta - Accidentes
+In itinere - Grave - Mujeres - O AdministraciÃ³n pÃºblica y defensa; seguridad social obligatoria - Accidentes
+In itinere - Grave - Mujeres - P EducaciÃ³n - Accidentes
+In itinere - Grave - Mujeres - Q Actividades sanitarias y de servicios sociales - Accidentes
+In itinere - Grave - Mujeres - R Actividades artÃ­sticas, recreativas y de entretenimiento - Accidentes
+In itinere - Grave - Mujeres - S Otros servicios - Accidentes
+In itinere - Grave - Mujeres - T Actividades de los hogares como empleadores de personal domÃ©stico; actividades de los hogares como productores de bienes y servicios para uso propio - Accidentes
+In itinere - Grave - Mujeres - U Organismos extraterritoriales - Accidentes
+In itinere - Fallecimiento - Total - Total - Accidentes
+In itinere - Fallecimiento - Total - A Agricultura, ganaderÃ­a, silvicultura y pesca - Accidentes
+In itinere - Fallecimiento - Total - B Industrias extractivas - Accidentes
+In itinere - Fallecimiento - Total - C Industria manufacturera - Accidentes
+In itinere - Fallecimiento - Total - D Suministro de energÃ­a elÃ©ctrica, gas, vapor y aire acondicionado - Accidentes
+In itinere - Fallecimiento - Total - E Suministro de agua, actividades de saneamiento, gestiÃ³n de residuos y descontaminaciÃ³n - Accidentes
+In itinere - Fallecimiento - Total - F ConstrucciÃ³n - Accidentes
+In itinere - Fallecimiento - Total - G Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos de motor y motocicletas - Accidentes
+In itinere - Fallecimiento - Total - H Transporte y almacenamiento - Accidentes
+In itinere - Fallecimiento - Total - I HostelerÃ­a - Accidentes
+In itinere - Fallecimiento - Total - J InformaciÃ³n y comunicaciones - Accidentes
+In itinere - Fallecimiento - Total - K Activifdades financieras y de seguros - Accidentes
+In itinere - Fallecimiento - Total - L Actividades inmobiliarias - Accidentes
+In itinere - Fallecimiento - Total - M Actividades profesionales, cientÃ­ficas y tÃ©cnicas - Accidentes
+In itinere - Fallecimiento - Total - N Actividades administrativas y servicios auxiliares  - Accidentes
+In itinere - Fallecimiento - Total - No consta - Accidentes
+In itinere - Fallecimiento - Total - O AdministraciÃ³n pÃºblica y defensa; seguridad social obligatoria - Accidentes
+In itinere - Fallecimiento - Total - P EducaciÃ³n - Accidentes
+In itinere - Fallecimiento - Total - Q Actividades sanitarias y de servicios sociales - Accidentes
+In itinere - Fallecimiento - Total - R Actividades artÃ­sticas, recreativas y de entretenimiento - Accidentes
+In itinere - Fallecimiento - Total - S Otros servicios - Accidentes
+In itinere - Fallecimiento - Total - T Actividades de los hogares como empleadores de personal domÃ©stico; actividades de los hogares como productores de bienes y servicios para uso propio - Accidentes
+In itinere - Fallecimiento - Total - U Organismos extraterritoriales - Accidentes
+In itinere - Fallecimiento - Hombres - Total - Accidentes
+In itinere - Fallecimiento - Hombres - A Agricultura, ganaderÃ­a, silvicultura y pesca - Accidentes
+In itinere - Fallecimiento - Hombres - B Industrias extractivas - Accidentes
+In itinere - Fallecimiento - Hombres - C Industria manufacturera - Accidentes
+In itinere - Fallecimiento - Hombres - D Suministro de energÃ­a elÃ©ctrica, gas, vapor y aire acondicionado - Accidentes
+In itinere - Fallecimiento - Hombres - E Suministro de agua, actividades de saneamiento, gestiÃ³n de residuos y descontaminaciÃ³n - Accidentes
+In itinere - Fallecimiento - Hombres - F ConstrucciÃ³n - Accidentes
+In itinere - Fallecimiento - Hombres - G Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos de motor y motocicletas - Accidentes
+In itinere - Fallecimiento - Hombres - H Transporte y almacenamiento - Accidentes
+In itinere - Fallecimiento - Hombres - I HostelerÃ­a - Accidentes
+In itinere - Fallecimiento - Hombres - J InformaciÃ³n y comunicaciones - Accidentes
+In itinere - Fallecimiento - Hombres - K Activifdades financieras y de seguros - Accidentes
+In itinere - Fallecimiento - Hombres - L Actividades inmobiliarias - Accidentes
+In itinere - Fallecimiento - Hombres - M Actividades profesionales, cientÃ­ficas y tÃ©cnicas - Accidentes
+In itinere - Fallecimiento - Hombres - N Actividades administrativas y servicios auxiliares  - Accidentes
+In itinere - Fallecimiento - Hombres - No consta - Accidentes
+In itinere - Fallecimiento - Hombres - O AdministraciÃ³n pÃºblica y defensa; seguridad social obligatoria - Accidentes
+In itinere - Fallecimiento - Hombres - P EducaciÃ³n - Accidentes
+In itinere - Fallecimiento - Hombres - Q Actividades sanitarias y de servicios sociales - Accidentes
+In itinere - Fallecimiento - Hombres - R Actividades artÃ­sticas, recreativas y de entretenimiento - Accidentes
+In itinere - Fallecimiento - Hombres - S Otros servicios - Accidentes
+In itinere - Fallecimiento - Hombres - T Actividades de los hogares como empleadores de personal domÃ©stico; actividades de los hogares como productores de bienes y servicios para uso propio - Accidentes
+In itinere - Fallecimiento - Hombres - U Organismos extraterritoriales - Accidentes
+In itinere - Fallecimiento - Mujeres - Total - Accidentes
+In itinere - Fallecimiento - Mujeres - A Agricultura, ganaderÃ­a, silvicultura y pesca - Accidentes
+In itinere - Fallecimiento - Mujeres - B Industrias extractivas - Accidentes
+In itinere - Fallecimiento - Mujeres - C Industria manufacturera - Accidentes
+In itinere - Fallecimiento - Mujeres - D Suministro de energÃ­a elÃ©ctrica, gas, vapor y aire acondicionado - Accidentes
+In itinere - Fallecimiento - Mujeres - E Suministro de agua, actividades de saneamiento, gestiÃ³n de residuos y descontaminaciÃ³n - Accidentes
+In itinere - Fallecimiento - Mujeres - F ConstrucciÃ³n - Accidentes
+In itinere - Fallecimiento - Mujeres - G Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos de motor y motocicletas - Accidentes
+In itinere - Fallecimiento - Mujeres - H Transporte y almacenamiento - Accidentes
+In itinere - Fallecimiento - Mujeres - I HostelerÃ­a - Accidentes
+In itinere - Fallecimiento - Mujeres - J InformaciÃ³n y comunicaciones - Accidentes
+In itinere - Fallecimiento - Mujeres - K Activifdades financieras y de seguros - Accidentes
+In itinere - Fallecimiento - Mujeres - L Actividades inmobiliarias - Accidentes
+In itinere - Fallecimiento - Mujeres - M Actividades profesionales, cientÃ­ficas y tÃ©cnicas - Accidentes
+In itinere - Fallecimiento - Mujeres - N Actividades administrativas y servicios auxiliares  - Accidentes
+In itinere - Fallecimiento - Mujeres - No consta - Accidentes
+In itinere - Fallecimiento - Mujeres - O AdministraciÃ³n pÃºblica y defensa; seguridad social obligatoria - Accidentes
+In itinere - Fallecimiento - Mujeres - P EducaciÃ³n - Accidentes
+In itinere - Fallecimiento - Mujeres - Q Actividades sanitarias y de servicios sociales - Accidentes
+In itinere - Fallecimiento - Mujeres - R Actividades artÃ­sticas, recreativas y de entretenimiento - Accidentes
+In itinere - Fallecimiento - Mujeres - S Otros servicios - Accidentes
+In itinere - Fallecimiento - Mujeres - T Actividades de los hogares como empleadores de personal domÃ©stico; actividades de los hogares como productores de bienes y servicios para uso propio - Accidentes
+In itinere - Fallecimiento - Mujeres - U Organismos extraterritoriales - Accidentes
